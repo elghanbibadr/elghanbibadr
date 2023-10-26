@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @elghanbibadr
 - 👀 I’m interested in web development
 - 🌱Working with html css Javascript bootstarp sass React git
-- 💞️ I’m looking to collaborate on any tiny small project
 - 📫 How to reach me  : bghanbi50@gmail.com
 
 <!---
